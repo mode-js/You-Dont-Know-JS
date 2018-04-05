@@ -19,5 +19,5 @@ Jenn Lukas<br>
 [jennlukas.com](http://jennlukas.com/), [@jennlukas](https://twitter.com/jennlukas)<br>
 Front-end consultant <br>
  
- ```                            [PREFACE](https://github.com/mode-js/You-Dont-Know-JS/blob/master/preface.md)<br> &rarr;```
+                         [PREFACE](https://github.com/mode-js/You-Dont-Know-JS/blob/master/preface.md)  &rarr;
   
