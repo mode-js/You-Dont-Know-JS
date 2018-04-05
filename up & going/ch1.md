@@ -802,5 +802,5 @@ I'm excited you're well on your way to learning how to code, now! Keep it up. Do
 The next chapter will review many of the concepts from this chapter, but from a more JavaScript-specific perspective, which will highlight most of the major topics that are addressed in deeper detail throughout the rest of the series.
 
 
->  [Chapter 2](https://github.com/mode-js/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
+>  [Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
 
