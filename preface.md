@@ -38,3 +38,7 @@ The JavaScript you know *right now* is probably *parts* handed down to you by ot
 JavaScript is awesome. It's easy to learn partially, and much harder to learn completely (or even *sufficiently*). When developers encounter confusion, they usually blame the language instead of their lack of understanding. These books aim to fix that, inspiring a strong appreciation for the language you can now, and *should*, deeply *know*.
 
 Note: Many of the examples in this book assume modern (and future-reaching) JavaScript engine environments, such as ES6. Some code may not work as described if run in older (pre-ES6) engines.
+
+
+>  [Chapter 1](https://github.com/mode-js/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
+
