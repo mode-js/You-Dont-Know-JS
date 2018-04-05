@@ -40,5 +40,5 @@ JavaScript is awesome. It's easy to learn partially, and much harder to learn co
 Note: Many of the examples in this book assume modern (and future-reaching) JavaScript engine environments, such as ES6. Some code may not work as described if run in older (pre-ES6) engines.
 
 
->  [Chapter 1](https://github.com/mode-js/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
+>  [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
 
