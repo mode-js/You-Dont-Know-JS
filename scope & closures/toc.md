@@ -9,7 +9,7 @@
 	* Understanding Scope
 	* Nested Scope
 	* Errors
-* Chapter 2: Lexical Scope
+* [Chapter 2: Lexical Scope](ch2.md)
 	* Lex-time
 	* Cheating Lexical
 * Chapter 3: Function vs. Block Scope
@@ -17,7 +17,7 @@
 	* Hiding In Plain Scope
 	* Functions As Scopes
 	* Blocks As Scopes
-* Chapter 4: Hoisting
+* Chapter 4: Hoisting 
 	* Chicken Or The Egg?
 	* The Compiler Strikes Again
 	* Functions First
